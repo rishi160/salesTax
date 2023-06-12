@@ -1,3 +1,0 @@
-#Create a Bash script that functions like a sales tax calculator using your home state’s sales tax rate. If you live in a state with no sales tax, use the rate of a nearby state. Your Bash script should accept a decimal number as input and output the item’s total price rounded to the nearest cent.
-
-test
